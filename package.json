@@ -1,0 +1,26 @@
+{
+  "name": "bot_tur",
+  "version": "1.0.0",
+  "description": "een bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "yt",
+    "bot",
+    "roblox"
+  ],
+  "author": "Monta",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "fortnite": "^4.3.2",
+    "ms": "^2.1.2",
+    "superagent": "^5.1.1"
+  }
+}
